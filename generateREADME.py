@@ -25,7 +25,10 @@ def add_info():
     info_txt = """
 <h1 align="center">Hi 👋, I'm qinless</h1>
 
-![qinLess GitHub stats](https://github-readme-stats.vercel.app/api?username=qinLess&show_icons=true&theme=aura)
+<p align="center">
+<a href="https://github.com/qinLess" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=qinLess&show_icons=true&theme=aura&count_private=true" />
+</a></p>
     """
     f.write(info_txt)
 
@@ -99,10 +102,10 @@ def main():
 
         add_info()
         f.write('\n<table align="center"><tr>\n')
-        f.write('<td valign="top" width="33%">\n')
+        f.write('<td valign="top" width="50%">\n')
         add_blog_info()
         f.write('\n</td>\n')
-        f.write('<td valign="top" width="33%">\n')
+        f.write('<td valign="top" width="50%">\n')
         add_star_info()
         f.write('\n</td>\n')
         f.write('</tr></table>\n')
