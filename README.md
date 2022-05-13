@@ -14,3 +14,19 @@
 - [查看更多](https://www.qinless.com/)
 
 
+## 精选仓库
+
+<a href="https://github.com/qinLess/frida_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qinLess&repo=frida_api&show_owner=true&&theme=aura" /></a>
+<a href="https://github.com/qinLess/magical"><img src="https://github-readme-stats.vercel.app/api/pin/?username=qinLess&repo=magical&show_owner=true&&theme=aura" /></a>
+
+## 联系我
+
+<p align="center">
+
+<a href="mailto:qinless@qinless.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-qinless@qinless.com-blue?style=flat-square&logo=gmail">
+</a>
+
+</p>
+
+
