@@ -7,7 +7,7 @@
 </a></p>
     
 <table align="center"><tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ### 我的个人博客
 - [sgmain 6.4.x xminiwua 加密算法分析研究](https://www.qinless.com/1724)
@@ -19,7 +19,7 @@
 - [查看更多](https://www.qinless.com/)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ### 我的系列文章
 
