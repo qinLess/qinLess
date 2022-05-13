@@ -88,7 +88,7 @@ def add_blog_info():
             if a == 5:
                 break
 
-            f.write(f"- [{title}]({link})\n")
+            f.write(f"- [{title}]({link})\n\n")
 
             a += 1
     else:
